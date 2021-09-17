@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProviderPatternLogTest.LogProvider.LogProviderCollection" Collapsed="true">
+    <Position X="3.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LogProvider\LogProviderCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProviderPatternLogTest.LogProvider.LogProviderConfiguration" Collapsed="true">
+    <Position X="0.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LogProvider\LogProviderConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProviderPatternLogTest.LogProvider.LogProviderManager" Collapsed="true">
+    <Position X="2" Y="4" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CBAAAAAAAAAEAQAAAAAAIAAAAAAAAAACAAAAAAAABAA=</HashCode>
+      <FileName>LogProvider\LogProviderManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProviderPatternLogTest.LogProvider.Providers.LogProviderBase" Collapsed="true">
+    <Position X="2" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAEAAABAAAAAAAAAAAAAAAEAACAA=</HashCode>
+      <FileName>LogProvider\Providers\LogProviderBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProviderPatternLogTest.LogProvider.Providers.TextLogProvider" Collapsed="true">
+    <Position X="3.5" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEACAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>LogProvider\Providers\TextLogProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProviderPatternLogTest.LogProvider.Providers.XmlLogProvider" Collapsed="true">
+    <Position X="0.5" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEACAIAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>LogProvider\Providers\XmlLogProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
